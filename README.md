@@ -8,9 +8,9 @@ J'ai effectué les tests de l'application via un build development sur Android a
 
 ## Prérequis
 
-[Node.js](https://nodejs.org/)<br>
-[Miniconda](https://docs.conda.io/en/latest/miniconda.html)<br>
-[Python Server](https://github.com/gnvIRCAM/RAVE-ONNX-Server)
+- [Node.js](https://nodejs.org/)
+- [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+- [Python Server](https://github.com/gnvIRCAM/RAVE-ONNX-Server)
 
 
 ## Installation et Lancement
