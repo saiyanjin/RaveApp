@@ -1,6 +1,6 @@
-# iTunes App
+# Rave App
 
-Projet **iTunes App**
+Projet **Rave App**
 
 ## Tests effectués
 
